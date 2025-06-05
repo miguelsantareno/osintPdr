@@ -1056,6 +1056,7 @@ Always check everything is working correctly by confirming - <https://mylocation
 ## Scams
 
 - Scam Digger -  <https://scamdigger.com>
+- Chain Abuse - <https://www.chainabuse.com/>
 
 ---
 
